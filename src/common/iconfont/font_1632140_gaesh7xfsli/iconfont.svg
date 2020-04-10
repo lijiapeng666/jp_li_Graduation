@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="xianzhongzhuandaodachang" unicode="&#58889;" d="M0 42.666667 32938.666667 42.666667 32938.666667-128 0-128 0 42.666667ZM32938.666667 896 34645.333333-128 32938.666667-128 32938.666667 896Z"  horiz-adv-x="34646" />
+
+    
+    <glyph glyph-name="daoda" unicode="&#59293;" d="M993.28 337.92H46.08c-8.192 0-15.36 7.168-15.36 15.36s7.168 15.36 15.36 15.36h849.92l-50.176 33.792c-7.168 5.12-9.216 14.336-4.096 21.504 5.12 7.168 14.336 9.216 19.456 5.12L993.28 337.92z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

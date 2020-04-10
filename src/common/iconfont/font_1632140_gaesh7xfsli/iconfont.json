@@ -1,0 +1,23 @@
+{
+  "id": "1632140",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "867604",
+      "name": "线_中转到达_长",
+      "font_class": "xianzhongzhuandaodachang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3639277",
+      "name": "到达",
+      "font_class": "daoda",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    }
+  ]
+}
